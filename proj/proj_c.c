@@ -1,4 +1,4 @@
-#include "proj.h"
+#include "proj_c.h"
 
 char *get_err()
 {
