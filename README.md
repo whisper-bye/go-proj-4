@@ -4,7 +4,7 @@ Keywords: cartography, cartographic projection
 
 ## Install
 
-    go get github.com/pebbe/go-proj-4/proj
+    go get github.com/whisper-bye/go-proj-4/proj
 
 ## Docs
 
