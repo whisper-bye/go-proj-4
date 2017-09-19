@@ -8,4 +8,4 @@ Keywords: cartography, cartographic projection
 
 ## Docs
 
- * [package help](http://godoc.org/github.com/pebbe/go-proj-4/proj)
+ * [package help](https://godoc.org/github.com/whisper-bye/go-proj-4/proj)
